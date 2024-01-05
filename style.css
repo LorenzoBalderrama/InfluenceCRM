@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+button{
+    border: none;
+    background: initial;
+}
+
+body{
+    padding: 10px;
+}
+
+.btn{
+    padding: 5px 10px;
+    border-radius: 500000px;
+}
+
+.btn--home{
+    background-color: rgb(1, 82, 78);
+}
+
+.btn--contacts{
+    background-color: rgb(0, 63, 103);
+}
+
+.btn--portfolio{
+    background-color: rgb(187, 110, 122);
+}
